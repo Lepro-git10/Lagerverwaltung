@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aufgabe 25 Lagerverwaltung")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6abc47d3042b20490f7d293d8a8ffde56945d9e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fadcea95dfb5d89a3aacf25c2f07331b0611a2d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aufgabe 25 Lagerverwaltung")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aufgabe 25 Lagerverwaltung")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
